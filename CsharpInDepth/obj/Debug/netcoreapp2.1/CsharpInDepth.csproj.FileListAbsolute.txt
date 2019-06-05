@@ -1,0 +1,11 @@
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\bin\Debug\netcoreapp2.1\CsharpInDepth.deps.json
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\bin\Debug\netcoreapp2.1\CsharpInDepth.runtimeconfig.json
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\bin\Debug\netcoreapp2.1\CsharpInDepth.runtimeconfig.dev.json
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\bin\Debug\netcoreapp2.1\CsharpInDepth.dll
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\bin\Debug\netcoreapp2.1\CsharpInDepth.pdb
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\obj\Debug\netcoreapp2.1\CsharpInDepth.csprojAssemblyReference.cache
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\obj\Debug\netcoreapp2.1\CsharpInDepth.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\obj\Debug\netcoreapp2.1\CsharpInDepth.AssemblyInfoInputs.cache
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\obj\Debug\netcoreapp2.1\CsharpInDepth.AssemblyInfo.cs
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\obj\Debug\netcoreapp2.1\CsharpInDepth.dll
+C:\Users\Vahid\Source\repos\CsharpInDepth\CsharpInDepth\obj\Debug\netcoreapp2.1\CsharpInDepth.pdb
